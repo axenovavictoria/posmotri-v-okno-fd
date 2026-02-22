@@ -176,6 +176,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 26px;
+  width: 399px;
 }
 
 /* --- ЗАГОЛОВОК --- */
