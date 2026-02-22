@@ -209,10 +209,6 @@ ol {
   gap: 30px;
 }
 
-.content__list-item {
-  padding: 0 3px;
-}
-
 /* ссылка-карточка */
 .content__card-link {
   text-decoration: none;
