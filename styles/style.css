@@ -68,6 +68,7 @@ ol {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
 }
 
 /* --- ФОРМА ПОИСКА --- */
@@ -242,7 +243,6 @@ ol {
 .content__video-card {
   display: flex;
   align-items: flex-start;
-  gap: 10px;
 }
 
 .content__video-card-description-container {
@@ -260,7 +260,7 @@ ol {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100%;
+  max-width: 196px;
 }
 
 .content__video-card-description {
